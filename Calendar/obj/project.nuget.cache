@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WKRQP3S29eCv5KlJJek61Utiwo9xsnMDHrwV7xuF8sOBbGSGdX3b7PBRgqZ7QvJ1UPoHhWZWdZ4zGVoFOn85mw==",
+  "dgSpecHash": "Zwvx9tn4nhj2pfAsTr4+aY1CzdcrLB/jGVSEmv7PA9HoMpMLe20a0p+2tKHyjP5AVPd4UR+9L7lfHdOIlKeiCg==",
   "success": true,
-  "projectFilePath": "D:\\c#-mvc\\course\\.netCore6\\Calendar\\Calendar\\Calendar.csproj",
+  "projectFilePath": "D:\\c#-mvc\\course\\git-sample\\SampleCal\\Calendar\\Calendar.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\humanizer.core\\2.2.0\\humanizer.core.2.2.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

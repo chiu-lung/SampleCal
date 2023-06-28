@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\c#-mvc\\course\\.netCore6\\Calendar\\Calendar\\Calendar.csproj": {}
+    "D:\\c#-mvc\\course\\git-sample\\SampleCal\\Calendar\\Calendar.csproj": {}
   },
   "projects": {
-    "D:\\c#-mvc\\course\\.netCore6\\Calendar\\Calendar\\Calendar.csproj": {
+    "D:\\c#-mvc\\course\\git-sample\\SampleCal\\Calendar\\Calendar.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\c#-mvc\\course\\.netCore6\\Calendar\\Calendar\\Calendar.csproj",
+        "projectUniqueName": "D:\\c#-mvc\\course\\git-sample\\SampleCal\\Calendar\\Calendar.csproj",
         "projectName": "Calendar",
-        "projectPath": "D:\\c#-mvc\\course\\.netCore6\\Calendar\\Calendar\\Calendar.csproj",
+        "projectPath": "D:\\c#-mvc\\course\\git-sample\\SampleCal\\Calendar\\Calendar.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "D:\\c#-mvc\\course\\.netCore6\\Calendar\\Calendar\\obj\\",
+        "outputPath": "D:\\c#-mvc\\course\\git-sample\\SampleCal\\Calendar\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
